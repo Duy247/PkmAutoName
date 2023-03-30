@@ -2,9 +2,8 @@
 Pokecord auto namer with auto clipboard
 
 Story behind:
-   
-    Hello, I am a beginner in coding.
-    So I was playing Pokecord on Discord when I read about how many people use Discord's OAuth2 to make self-bots to catch Pokémon quickly and automatically. However, this is forbidden and against the bot's terms of service. So, I came up with the idea to manually catch Pokémon at high speed (perhaps not lightning speed, but at the speed of sound). I then decided to implement my idea into a simple Visual Basic program that would be sufficient while also maintaining its simplicity.
+
+Hello, I am a beginner in coding. So I was playing Pokecord on Discord when I read about how many people use Discord's OAuth2 to make self-bots to catch Pokémon quickly and automatically. However, this is forbidden and against the bot's terms of service. So, I came up with the idea to manually catch Pokémon at high speed (perhaps not lightning speed, but at the speed of sound). I then decided to implement my idea into a simple Visual Basic program that would be sufficient while also maintaining its simplicity.
 
 Features:
    - Automatically gets the Pokemon's name into clipboard after you copy the link of the pokemon's picture that Pokecord provided.
