@@ -1,0 +1,10 @@
+C:\Users\duy5a\source\repos\PkmAutoName\PkmAutoName\bin\Debug\PkmAutoName.exe.config
+C:\Users\duy5a\source\repos\PkmAutoName\PkmAutoName\bin\Debug\PkmAutoName.exe
+C:\Users\duy5a\source\repos\PkmAutoName\PkmAutoName\bin\Debug\PkmAutoName.pdb
+C:\Users\duy5a\source\repos\PkmAutoName\PkmAutoName\obj\Debug\PkmAutoName.Form1.resources
+C:\Users\duy5a\source\repos\PkmAutoName\PkmAutoName\obj\Debug\PkmAutoName.Properties.Resources.resources
+C:\Users\duy5a\source\repos\PkmAutoName\PkmAutoName\obj\Debug\PkmAutoName.csproj.GenerateResource.cache
+C:\Users\duy5a\source\repos\PkmAutoName\PkmAutoName\obj\Debug\PkmAutoName.csproj.CoreCompileInputs.cache
+C:\Users\duy5a\source\repos\PkmAutoName\PkmAutoName\obj\Debug\PkmAutoName.exe
+C:\Users\duy5a\source\repos\PkmAutoName\PkmAutoName\obj\Debug\PkmAutoName.pdb
+C:\Users\duy5a\source\repos\PkmAutoName\PkmAutoName\obj\Debug\PkmAutoName.csprojAssemblyReference.cache
