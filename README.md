@@ -1,4 +1,4 @@
-# PkmAutoName
+# PokemonAutoNamer
 Pokecord auto namer with auto clipboard
 Story behind:
     Hello, I am a beginner in coding.
