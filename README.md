@@ -6,7 +6,7 @@ Story behind:
 
 Features:
    - Automatically gets the Pokemon's name into clipboard after you copy the link of the pokemon's picture that Pokecord provided.
-   - It runss in background with a circle of 0.1s, so you can keep using it to get as much name as you want, just need to paste using Ctrl+V and you get the name.
+   - It runs in background with a circle of 0.1s, so you can keep using it to get as much name as you want, just need to paste using Ctrl+V and you get the name.
    - Buttons lead to the pokemon database page of your chosen pokemon.
    - Evolution information of your chosen pokemon, keep in mind that the information is the actual evolution path within Pokecord, not any of the pokemon games.
    - A profile picture of my Discord.
