@@ -127,6 +127,7 @@ namespace PkmAutoName
             this.Controls.Add(this.label1);
             this.Controls.Add(this.MadeByLinFang);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.KeyPreview = true;
             this.Name = "Form1";
             this.Text = "PKMAutoName";
             this.Load += new System.EventHandler(this.Form1_Load_1);

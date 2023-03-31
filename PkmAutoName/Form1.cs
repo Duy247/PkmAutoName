@@ -7,6 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Runtime.InteropServices;
+using System.Diagnostics;
+
 
 
 namespace PkmAutoName
@@ -18,13 +21,20 @@ namespace PkmAutoName
         {
             InitializeComponent();
             pictureBox1.Image = PkmAutoName.Properties.Resources.Derp;
+            this.KeyPreview = true;
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             timer1.Enabled = true;
+            this.KeyPreview = true;
         }
- 
+        private void PressEnter()
+        {
+            SendKeys.Send("c ");
+            SendKeys.Send("^v");
+            SendKeys.Send("{ENTER}");
+        }
         private void timer1_Tick(object sender, EventArgs e)
         {
             if (Clipboard.ContainsText())
@@ -47,6 +57,8 @@ namespace PkmAutoName
                             string item_name = line.Substring(comma_pos2 + 1);
                             lblResult.Text =  item_name;
                             Clipboard.SetText(item_name);
+                            // Simulate pasting and pressing Enter
+                            PressEnter();
                             string[] csvLines = PkmAutoName.Properties.Resources.Evolutions.Split(new[] { "\r\n", "\r", "\n" }, StringSplitOptions.None);
                             string item_evo = Array.Find(csvLines, l => l.Contains(item_name));
                             if (item_evo != null)
@@ -94,7 +106,7 @@ namespace PkmAutoName
 
         private void Form1_Load_1(object sender, EventArgs e)
         {
-
+           
         }
     }
 }
