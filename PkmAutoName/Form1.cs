@@ -31,6 +31,8 @@ namespace PkmAutoName
         }
         private void PressEnter()
         {
+            SendKeys.Send("+2");
+            SendKeys.Send("pokecord#4908");
             SendKeys.Send("c ");
             SendKeys.Send("^v");
             SendKeys.Send("{ENTER}");
