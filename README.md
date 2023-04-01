@@ -15,7 +15,8 @@ Features:
     
 How to use: 
    
-   Just right-click the pokemon pictures that Pokecord provided, and you get all the info you want in the program, especially having the name of the Pokemon copied into clipboard.
+   Just right-click the pokemon pictures that Pokecord provided, and you get all the info you want in the program, especially having the catching command typed in using macro. 
+   Instruction: Either you set the tagging number of the Pokecord bot into 4409, or modify the code to fit your own tagging number.
 
 
 Download link: [download here](https://github.com/Duy247/PkmAutoName/blob/main/PkmAutoName/bin/Debug/PkmAutoName.exe)
