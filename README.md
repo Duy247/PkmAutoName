@@ -6,7 +6,7 @@ Story behind:
 Hello, I am a beginner in coding. So I was playing Pokecord on Discord when I read about how many people use Discord's OAuth2 to make self-bots to catch Pokémon quickly and automatically. However, this is forbidden and against the bot's terms of service. So, I came up with the idea to manually catch Pokémon at high speed (perhaps not lightning speed, but at the speed of sound). I then decided to implement my idea into a simple Visual Basic program that would be sufficient while also maintaining its simplicity.
 
 Features:
-   - Automatically gets the Pokemon's name into clipboard after you copy the link of the pokemon's picture that Pokecord provided.
+   - Automatically type the catching command using programmed macro.
    - It runs in background with a circle of 0.1s, so you can keep using it to get as much name as you want, just need to paste using Ctrl+V and you get the name.
    - Buttons lead to the pokemon database page of your chosen pokemon.
    - Evolution information of your chosen pokemon, keep in mind that the information is the actual evolution path within Pokecord, not any of the pokemon games.
