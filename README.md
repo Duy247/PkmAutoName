@@ -7,7 +7,7 @@ Hello, I am a beginner in coding. So I was playing Pokecord on Discord when I re
 
 Features:
    - Automatically type the catching command using programmed macro.
-   - It runs in background with a circle of 0.1s, so you can keep using it to get as much name as you want, just need to paste using Ctrl+V and you get the name.
+   - It runs in background with a circle of 0.1s, so you can keep using it to get as much name as you want, just need to copy using Ctrl+C and you get the name.
    - Buttons lead to the pokemon database page of your chosen pokemon.
    - Evolution information of your chosen pokemon, keep in mind that the information is the actual evolution path within Pokecord, not any of the pokemon games.
    - A profile picture of my Discord.
@@ -15,7 +15,7 @@ Features:
     
 How to use: 
    
-   Just right-click the pokemon pictures that Pokecord provided, and you get all the info you want in the program, especially having the catching command typed in using macro. 
+   Just right-click the pokemon pictures that Pokecord provided, click on copy link and you get all the info you want in the program, especially having the catching command typed in using macro. 
    Instruction: Either you set the tagging number of the Pokecord bot into Pokecord#4908, or modify the code to fit your own tagging number.
 
 
